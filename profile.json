@@ -1,0 +1,45 @@
+{
+  "name": "Manish Reddy",
+  "headline": "Founder at ConquerFA - Fostering Ambitions",
+  "location": "India",
+  "mission": "Turning rural India into innovation hubs through technology, leadership, and community.",
+  "focus_areas": [
+    "AI Products",
+    "Agritech Innovation",
+    "Leadership Systems",
+    "Startup Communities"
+  ],
+  "current_projects": [
+    {
+      "name": "LeaderOS",
+      "description": "Operating system for leadership growth, execution rhythm, and accountability in student communities."
+    },
+    {
+      "name": "AI Call Automation",
+      "description": "Voice AI workflows for outreach, onboarding, and support operations."
+    },
+    {
+      "name": "Smart Soil Analyzer",
+      "description": "Data-driven soil intelligence platform to improve agricultural productivity."
+    }
+  ],
+  "impact_metrics": [
+    {
+      "label": "Students impacted",
+      "value": "9000+"
+    },
+    {
+      "label": "Innovation community members",
+      "value": "400+"
+    },
+    {
+      "label": "Events organized",
+      "value": "60+"
+    }
+  ],
+  "contact": {
+    "email": "hello@example.com",
+    "linkedin": "https://www.linkedin.com",
+    "website": "https://example.com"
+  }
+}
