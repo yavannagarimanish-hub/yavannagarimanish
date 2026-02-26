@@ -21,6 +21,10 @@
 
 ## Vision
 Turning rural India into innovation hubs.
+## GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=yavannagarimanish-hub&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yavannagarimanish-hub)
 ---
 Building in public 🚀
